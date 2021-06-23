@@ -8,4 +8,4 @@ Beside my studies I'm also:
 - in love with music: singing 🎤, playing the piano 🎹 & the guitar 🎸
 
 ### My tech stack:
-<img align="left" alt="Xcode" width="26px" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+<img align="left" alt="Xcode" width="42px" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
