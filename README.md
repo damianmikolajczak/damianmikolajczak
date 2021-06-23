@@ -7,5 +7,5 @@ Beside my studies I'm also:
 - designing & bulding a lot of power electrics embedded systems ⚡️
 - in love with music: singing 🎤, playing the piano 🎹 & the guitar 🎸
 
-###My tech stack:
-[<img align="left" alt="Xcode" width="26px" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">]
+### My tech stack:
+<img align="left" alt="Xcode" width="26px" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
