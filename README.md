@@ -6,7 +6,7 @@ I am a Computer Science 🖥 & Electrical Engineering ⚡️ student who spend s
 - designing & bulding a lot of power electrics embedded systems ⚡️
 - in love with music: singing 🎤, playing the piano 🎹 & the guitar 🎸
 
-### Tech stack
+## Tech stack
 <img align="left" alt="Swift" width="72px" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 <img align="left" alt="Xcode" width="72px" src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white">
 <img align="left" alt="GitHub" width="72px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -16,12 +16,12 @@ I am a Computer Science 🖥 & Electrical Engineering ⚡️ student who spend s
 <img align="left" alt="CSS" width="72px" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </br></br>
 
-### You can find me arround the web 🌍
+## You can find me arround the web 🌍
 
-- GitHub [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/damianmikolajczak)
-- LinkedIn[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/damian-mikołajczak-97506a215/)
-- Facebook [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/damian49841)
-- Instagram [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/damian_mikolajczak/)  
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='24'>](https://github.com/damianmikolajczak) <a href="https://github.com/damianmikolajczak">GitHub</a> 
+- <a href="https://www.linkedin.com/in/damian-mikołajczak-97506a215/">LinkedIn</a> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/damian-mikołajczak-97506a215/)
+- <a href="https://www.facebook.com/damian49841">Facebook</a> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='24'>](https://www.facebook.com/damian49841)
+- <a href="https://www.instagram.com/damian_mikolajczak/">Instagram</a>  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='24'>](https://www.instagram.com/damian_mikolajczak/)  
 
-### Stats:
+## Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=damianmikolajczak&show_icons=true)  
