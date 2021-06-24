@@ -18,10 +18,7 @@ I am a Computer Science 🖥 & Electrical Engineering ⚡️ student who spend s
 
 ## You can find me arround the web 🌍
 
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='24'>](https://github.com/damianmikolajczak) <a href="https://github.com/damianmikolajczak">GitHub</a> 
-- <a href="https://www.linkedin.com/in/damian-mikołajczak-97506a215/">LinkedIn</a> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/damian-mikołajczak-97506a215/)
-- <a href="https://www.facebook.com/damian49841">Facebook</a> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='24'>](https://www.facebook.com/damian49841)
-- <a href="https://www.instagram.com/damian_mikolajczak/">Instagram</a>  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='24'>](https://www.instagram.com/damian_mikolajczak/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='24'>](https://github.com/damianmikolajczak)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/damian-mikołajczak-97506a215/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='24'>](https://www.facebook.com/damian49841) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='24'>](https://www.instagram.com/damian_mikolajczak/)  
 
 ## Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=damianmikolajczak&show_icons=true)  
