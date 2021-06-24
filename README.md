@@ -1,8 +1,8 @@
+<img src="readme.png" ></br>
 # Hello world, I'm Damian! 👋
-
 I am a Computer Science 🖥 & Electrical Engineering ⚡️ student who spend some years in the automotive industry but then decided to do what he really like and be a software developer. Beside my studies I'm also:
 - learning programing in Swift  ⌨️
-- writing some AI scripts for use in example in motor speed regulation systems 🧠
+- writing some AI scripts for use in for example motor speed regulation systems 🧠
 - designing & bulding a lot of power electrics embedded systems ⚡️
 - in love with music: singing 🎤, playing the piano 🎹 & the guitar 🎸
 
